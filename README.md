@@ -5,6 +5,7 @@ Variety of solutions for Leetcode Problems
 | #   | Title(Source Link)                                                                                                                                          | Solution                                    | Difficulty |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------- |
 |     | []()   | [Javascript](.)                             | Medium     |
+|     | []()   | [Javascript](.)                             | Medium     |
 |     | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                                             | [Javascript](./medium/removeNthNode.js)     | Medium     |
 |     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)                                   | [Javascript](./medium/letterComb.js)        | Medium     |
 |     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                                                           | [Javascript](./medium/maxWater.js)          | Medium     |
@@ -26,4 +27,9 @@ Variety of solutions for Leetcode Problems
 |     | [Tenth Line](https://leetcode.com/problems/tenth-line/description/)                                                                                         | [Javascript](./easy/bashPrint10.js)         | Easy       |
 |     | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)                                                                     | [Javascript](./easy/p2.js)                  | Easy       |
 |     | [Add Strings](https://leetcode.com/problems/add-strings/description/)                                                                                       | [Javascript](./easy/addStrings.js)          | Easy       |
-|     | []()     | [Javascript](.)                             | Easy       |
+|     | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)     | [Javascript](./easy/commonChars.js)                             | Easy       |
+|     | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)   | [Javascript](./easy/intersection.js)                             | Easy     |
+|     | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)   | [Javascript](./easy/intersection2.js)                             | Easy     |
+|     | []()   | [Javascript](.)                             | Easy     |
+|     | []()   | [Javascript](.)                             | Easy     |
+|     | []()   | [Javascript](.)                             | Easy     |
