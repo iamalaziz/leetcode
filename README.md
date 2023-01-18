@@ -30,6 +30,10 @@ Variety of solutions for Leetcode Problems
 |     | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)     | [Javascript](./easy/commonChars.js)                             | Easy       |
 |     | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)   | [Javascript](./easy/intersection.js)                             | Easy     |
 |     | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)   | [Javascript](./easy/intersection2.js)                             | Easy     |
-|     | []()   | [Javascript](.)                             | Easy     |
-|     | []()   | [Javascript](.)                             | Easy     |
+|     | [Day of the Week](https://leetcode.com/problems/day-of-the-week/description/)   | [Javascript](./easy/dayOfTheWeek.js)                             | Easy     |
+|     | [Day of the Year](https://leetcode.com/problems/day-of-the-year/description/)   | [Javascript](./easy/p4.js)                             | Easy     |
+|     | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/)   | [Javascript](./easy/similarPairs.js)                             | Easy     |
+|     | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/)   | [Javascript](./easy/covertTemperature.js)                             | Easy     |
+|     | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)   | [Javascript](./easy/smallestEvenMultiple.js)                             | Easy     |
+|     | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)   | [Javascript](./easy/moveZeroes.js)                             | Easy     |
 |     | []()   | [Javascript](.)                             | Easy     |
