@@ -5,8 +5,11 @@ Variety of solutions for Leetcode Problems
 | #   | Title(Source Link)                                                                                                                                          | Solution                                     | Difficulty |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
 | 42  | []() | [Javascript](.)                              | Easy     |
-| 41  | []() | [Javascript](.)                              | Easy     |
-| 40  | []() | [Javascript](.)                              | Easy     |
+| 43  | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js)                              | Medium     |
+| 42  | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Javascript](./easy/removeDuplicates.js)                              | Easy     |
+| 41  | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) | [Javascript](./medium/removeStars.js)                              | Medium     |
+| 41  | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/) | [Javascript](./easy/maxStringValue.js)                              | Easy     |
+| 40  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Javascript](./easy/isAnagram.js)                              | Easy     |
 | 39  | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Javascript](./easy/differenceOfSum.js)                              | Easy     |
 | 38  | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | [Javascript](./easy/strongPwd.js)                              | Easy     |
 | 37  | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/) | [Javascript](./easy/checkTree.js)                              | Easy     |
