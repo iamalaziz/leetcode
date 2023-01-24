@@ -4,7 +4,11 @@ Variety of solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                          | Solution                                     | Difficulty |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
-| 42  | []() | [Javascript](.)                              | Easy     |
+| 48  | []() | [Javascript](.)                              | Easy     |
+| 47  | []() | [Javascript](.)                              | Easy     |
+| 46  | []() | [Javascript](.)                              | Easy     |
+| 45  | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) | [Javascript](./easy/gcdOfStrings.js)                              | Easy     |
+| 44  | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/) | [Javascript](./easy/findGCD.js)                              | Easy     |
 | 43  | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js)                              | Medium     |
 | 42  | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Javascript](./easy/removeDuplicates.js)                              | Easy     |
 | 41  | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) | [Javascript](./medium/removeStars.js)                              | Medium     |
