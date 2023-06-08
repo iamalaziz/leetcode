@@ -1,6 +1,6 @@
 # Leetcode
 
-Variety of solutions for Leetcode Problems
+My solutions for Leetcode Problems
 
 ### Medium (7)
 
@@ -10,24 +10,20 @@ Variety of solutions for Leetcode Problems
 | 5   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                                   | [Javascript](./medium/maxWater.js)      | Medium     |
 | 4   | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/description/) | [Javascript](./medium/distinctPrime.js) | Medium     |
 | 3   | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/description/)               | [Javascript](./medium/minimal-moves.js) | Medium     |
+| 2   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Javascript](./medium/removeNthNode.js) | Medium |
+| 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) | [Javascript](./medium/removeStars.js) | Medium |
+| 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js) | Medium |
 
-| 2 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Javascript](./medium/removeNthNode.js) | Medium |
-
-| 1 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/) | [Javascript](./medium/removeStars.js) | Medium |
-| 0 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js) | Medium |
-
-### Easy (41)
+### Easy (45)
 
 | #                                                                         | Title(Source Link)                                                                                                                                              | Solution                                     | Difficulty |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
-| 54                                                                        | []()                                                                                                                                                            | [Javascript](.)                              | Easy       |
-| 53                                                                        | []()                                                                                                                                                            | [Javascript](.)                              | Easy       |
-| 52                                                                        | [Merge Strings Alternately                                                                                                                                      |
-| ](https://leetcode.com/problems/merge-strings-alternately/description/)   | [Javascript](./easy/mergeStrings.js)                                                                                                                            | Easy                                         |
-| 51                                                                        | [Counter II](https://leetcode.com/problems/counter-ii/description/)                                                                                             | [Javascript](./easy/counter2.js)             | Easy       |
-| 50                                                                        | [Create Hello World Function                                                                                                                                    |
-| ](https://leetcode.com/problems/create-hello-world-function/description/) | [Javascript](./easy/helloWorld.js)                                                                                                                              | Easy                                         |
-| 49                                                                        | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/)                                                                   | [Javascript](./easy/onceFn.js)               | Easy       |
+| 46                                                                        | []()                                                                                                                                                            | [Javascript](.)                              | Easy       |
+| 45                                                                        | []()                                                                                                                                                            | [Javascript](.)                              | Easy       |
+| 44 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)   | [Javascript](./easy/mergeStrings.js)                                                                                                                            | Easy                                         |
+| 43                                                                        | [Counter II](https://leetcode.com/problems/counter-ii/description/)                                                                                             | [Javascript](./easy/counter2.js)             | Easy       |
+| 42                                                                        | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/) | [Javascript](./easy/helloWorld.js)                                                                                                                              | Easy                                         |
+| 41                                                                        | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/)                                                                   | [Javascript](./easy/onceFn.js)               | Easy       |
 | 40                                                                        | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)                                     | [Javascript](./easy/consistentStrings.js)    | Easy       |
 | 39                                                                        | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)         | [Javascript](./easy/smallerThanCurrent.js)   | Easy       |
 | 38                                                                        | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)                                             | [Javascript](./easy/gcdOfStrings.js)         | Easy       |
