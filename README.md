@@ -2,12 +2,11 @@
 
 My solutions for Leetcode Problems
 
-### Medium (10)
+## Medium (10)
 
 | #   | Title(Source Link)                                                                                                                    | Solution                                    | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------- |
-| 11  | []()                                                                                                                                  | [Javascript](./medium)                      | Medium     |
-| 10  | []()                                                                                                                                  | [Javascript](./medium)                      | Medium     |
+<!-- | 00  | []()  | [Javascript](./medium)                      | Medium     | -->
 | 9   | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)                           | [Javascript](./medium)                      | Medium     |
 | 8   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                               | [Javascript](./medium/productExceptSelf.js) | Medium     |
 | 7   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)                                     | [Javascript](./medium/reverseWords.js)      | Medium     |
@@ -19,18 +18,21 @@ My solutions for Leetcode Problems
 | 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                               | [Javascript](./medium/removeStars.js)       | Medium     |
 | 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js) | Medium     |
 
-### Easy (51)
+## Easy (51)
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                     | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
-| 54  | []()                                                                                                                                                            | [Javascript](.)                              | Easy       |
+<!-- | 00  | []()  | [Javascript](./easy)                      | Easy     | -->
+<!-- | 00  | []()  | [Javascript](./easy)                      | Easy     | -->
+| 54  | [Function Composition](https://leetcode.com/problems/function-composition/description/)  | [Javascript](./easy/fnComposition.js)                      | Easy     |
+| 54  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)  | [Javascript](./easy/isSubsequence.js)                      | Easy     |
 | 53  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)             | [Javascript](./easy/firstOccurence.js)       | Easy       |
 | 52  | [To Lower Case](https://leetcode.com/problems/to-lower-case/description/)                                                                                       | [Javascript](./easy/toLowerCase.js)          | Easy       |
 | 51  | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/)                                                           | [Javascript](./easy/reduce.js)               | Easy       |
 | 50  | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/)                                                             | [Javascript](./easy/filter.js)               | Easy       |
 | 49  | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/)                                                                             | [Javascript](./easy/expect.js)               | Easy       |
 | 48  | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/)                             | [Javascript](./easy/map.js)                  | Easy       |
-| 47  | [Reverse Vowels of a String ](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)                                                            | [Javascript](./easy/reverseVowels.js)        | Easy       |
+| 47  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)                                                            | [Javascript](./easy/reverseVowels.js)        | Easy       |
 | 46  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)                                                                               | [Javascript](./easy/canPlaceFlowers.js)      | Easy       |
 | 45  | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)                                 | [Javascript](./easy/kidsWithCandies.js)      | Easy       |
 | 44  | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)                                                               | [Javascript](./easy/mergeStrings.js)         | Easy       |

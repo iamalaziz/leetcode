@@ -13,7 +13,7 @@ var compress = function (chars) {
         console.log(s)
       }
     }
-    
+    // NOT DONE NOT DONE NOT DONE NOT DONE NOT DONE NOT DONE NOT DONE NOT DONE NOT DONE 
   }
   return s;
 };
