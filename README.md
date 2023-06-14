@@ -21,6 +21,7 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                     | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
+| 55  | [Maximum Average Subarray I](description/)                                                                         | [Javascript](./easy/fnComposition.js)        | Easy       |
 | 54  | [Function Composition](https://leetcode.com/problems/function-composition/description/)                                                                         | [Javascript](./easy/fnComposition.js)        | Easy       |
 | 54  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)                                                                                     | [Javascript](./easy/isSubsequence.js)        | Easy       |
 | 53  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)             | [Javascript](./easy/firstOccurence.js)       | Easy       |
