@@ -6,7 +6,7 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                    | Solution                                    | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------- |
-| 10  | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/description/)                           | [Javascript](./medium/timeLimitedCache.js)                      | Medium     |
+| 10  | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/description/)                                             | [Javascript](./medium/timeLimitedCache.js)  | Medium     |
 | 9   | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)                           | [Javascript](./medium)                      | Medium     |
 | 8   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                               | [Javascript](./medium/productExceptSelf.js) | Medium     |
 | 7   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)                                     | [Javascript](./medium/reverseWords.js)      | Medium     |
@@ -18,12 +18,14 @@ My solutions for Leetcode Problems
 | 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                               | [Javascript](./medium/removeStars.js)       | Medium     |
 | 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js) | Medium     |
 
-## Easy (56)
+## Easy (59)
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                     | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
-| 56  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                                                         | [Javascript](./easy/isPalindrome.js)        | Easy       |
-| 55  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                                                                         | [Javascript](./easy/findMaxAverage.js)        | Easy       |
+| 58  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                                                 | [Javascript](./easy/findPivot.js)            | Easy       |
+| 57  | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)                                               | [Javascript](./easy/findDifference.js)       | Easy       |
+| 56  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                                                                 | [Javascript](./easy/isPalindrome.js)         | Easy       |
+| 55  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)                                                             | [Javascript](./easy/findMaxAverage.js)       | Easy       |
 | 54  | [Function Composition](https://leetcode.com/problems/function-composition/description/)                                                                         | [Javascript](./easy/fnComposition.js)        | Easy       |
 | 54  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)                                                                                     | [Javascript](./easy/isSubsequence.js)        | Easy       |
 | 53  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)             | [Javascript](./easy/firstOccurence.js)       | Easy       |
