@@ -18,10 +18,13 @@ My solutions for Leetcode Problems
 | 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                               | [Javascript](./medium/removeStars.js)       | Medium     |
 | 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js) | Medium     |
 
-## Easy (59)
+## Easy (61)
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                     | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
+| 61  | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)                 | [Javascript](./easy/nearestValidPoint.js)    | Easy       |
+| 60  | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/)                                                                                     | [Javascript](./easy/myHashMap.js)            | Easy       |
+| 59  | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/)                                                         | [Javascript](./easy/uniqueOccurrences.js)    | Easy       |
 | 58  | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                                                 | [Javascript](./easy/findPivot.js)            | Easy       |
 | 57  | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)                                               | [Javascript](./easy/findDifference.js)       | Easy       |
 | 56  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                                                                 | [Javascript](./easy/isPalindrome.js)         | Easy       |
