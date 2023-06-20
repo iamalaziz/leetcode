@@ -18,10 +18,11 @@ My solutions for Leetcode Problems
 | 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                               | [Javascript](./medium/removeStars.js)       | Medium     |
 | 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js) | Medium     |
 
-## Easy (65)
+## Easy (66)
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                     | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
+| 65  | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)                                                                                         | [Javascript](./easy/convertToTitle.js)       | Easy       |
 | 64  | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)                                                                 | [Javascript](./easy/convertToTitle.js)       | Easy       |
 | 63  | [Sum Multiples](https://leetcode.com/problems/sum-multiples/)                                                                                                   | [Javascript](./easy/sumOfMultiples.js)       | Easy       |
 | 62  | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                                                                   | [Javascript](./easy/countBits.js)            | Easy       |
