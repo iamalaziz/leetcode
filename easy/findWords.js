@@ -4,7 +4,7 @@ var findWords = function (words) {
   let row3 = new Set('zxcvbnm');
   let res = [];
 
-  for (word of words) {
+  for (let word of words) {
     let loweredWord = word.toLowerCase();
 
     if (

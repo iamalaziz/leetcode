@@ -2,10 +2,11 @@
 
 My solutions for Leetcode Problems
 
-## Medium (10)
+## Medium (12)
 
 | #   | Title(Source Link)                                                                                                                    | Solution                                    | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------- |
+| 11  | [Memoize](https://leetcode.com/problems/memoize/description/)                                                                         | [Javascript](./medium/memoize.js)           | Medium     |
 | 10  | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/description/)                                             | [Javascript](./medium/timeLimitedCache.js)  | Medium     |
 | 9   | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)                           | [Javascript](./medium)                      | Medium     |
 | 8   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                               | [Javascript](./medium/productExceptSelf.js) | Medium     |
@@ -18,10 +19,12 @@ My solutions for Leetcode Problems
 | 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                               | [Javascript](./medium/removeStars.js)       | Medium     |
 | 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js) | Medium     |
 
-## Easy (66)
+## Easy (68)
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                     | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
+| 67  | [Execute Cancellable Function With Delay](https://leetcode.com/problems/execute-cancellable-function-with-delay/description/)                                   | [Javascript](./easy/cancellable.js)      | Easy       |
+| 66  | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)                                               | [Javascript](./easy/argumentsLength.js)      | Easy       |
 | 65  | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)                                                                                         | [Javascript](./easy/convertToTitle.js)       | Easy       |
 | 64  | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)                                                                 | [Javascript](./easy/convertToTitle.js)       | Easy       |
 | 63  | [Sum Multiples](https://leetcode.com/problems/sum-multiples/)                                                                                                   | [Javascript](./easy/sumOfMultiples.js)       | Easy       |
