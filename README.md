@@ -19,10 +19,13 @@ My solutions for Leetcode Problems
 | 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                               | [Javascript](./medium/removeStars.js)       | Medium     |
 | 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js) | Medium     |
 
-## Easy 71)
+## Easy (74)
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                     | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
+| 73  | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/description/)                                                           | [Javascript](./easy/fibGenerator.js)         | Easy       |
+| 72  | [Array Wrapper](https://leetcode.com/problems/array-wrapper/description/)                                                                                       | [Javascript](./easy/arrayWrapper.js)         | Easy       |
+| 71  | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)                                                               | [Javascript](./easy/calculator.js)           | Easy       |
 | 70  | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/)                                                                                         | [Javascript](./easy/timeLimit.js)            | Easy       |
 | 69  | [Is Object Empty](https://leetcode.com/problems/is-object-empty/description/)                                                                                   | [Javascript](./easy/isEmpty.js)              | Easy       |
 | 68  | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/description/)                                                                       | [Javascript](./easy/intervalCancel.js)       | Easy       |
