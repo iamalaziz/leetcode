@@ -19,10 +19,12 @@ My solutions for Leetcode Problems
 | 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                               | [Javascript](./medium/removeStars.js)       | Medium     |
 | 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js) | Medium     |
 
-## Easy (69)
+## Easy 71)
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                     | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
+| 70  | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/)                                                                                         | [Javascript](./easy/timeLimit.js)            | Easy       |
+| 69  | [Is Object Empty](https://leetcode.com/problems/is-object-empty/description/)                                                                                   | [Javascript](./easy/isEmpty.js)              | Easy       |
 | 68  | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/description/)                                                                       | [Javascript](./easy/intervalCancel.js)       | Easy       |
 | 67  | [Execute Cancellable Function With Delay](https://leetcode.com/problems/execute-cancellable-function-with-delay/description/)                                   | [Javascript](./easy/cancellable.js)          | Easy       |
 | 66  | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)                                               | [Javascript](./easy/argumentsLength.js)      | Easy       |
