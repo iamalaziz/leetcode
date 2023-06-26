@@ -2,27 +2,31 @@
 
 My solutions for Leetcode Problems
 
-## Medium (12)
+## Medium (15)
 
-| #   | Title(Source Link)                                                                                                                    | Solution                                    | Difficulty |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------- |
-| 11  | [Memoize](https://leetcode.com/problems/memoize/description/)                                                                         | [Javascript](./medium/memoize.js)           | Medium     |
-| 10  | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/description/)                                             | [Javascript](./medium/timeLimitedCache.js)  | Medium     |
-| 9   | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)                           | [Javascript](./medium)                      | Medium     |
-| 8   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                               | [Javascript](./medium/productExceptSelf.js) | Medium     |
-| 7   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)                                     | [Javascript](./medium/reverseWords.js)      | Medium     |
-| 6   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)             | [Javascript](./medium/letterComb.js)        | Medium     |
-| 5   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                                     | [Javascript](./medium/maxWater.js)          | Medium     |
-| 4   | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/description/)   | [Javascript](./medium/distinctPrime.js)     | Medium     |
-| 3   | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/description/)                 | [Javascript](./medium/minimal-moves.js)     | Medium     |
-| 2   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                       | [Javascript](./medium/removeNthNode.js)     | Medium     |
-| 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                               | [Javascript](./medium/removeStars.js)       | Medium     |
-| 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) | [Javascript](./medium/removeDuplicates2.js) | Medium     |
+| #   | Title(Source Link)                                                                                                                                | Solution                                        | Difficulty |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
+| 14  | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/)                                                               | [Javascript](./medium/deepestLeavesSum.js)      | Medium     |
+| 13  | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/)                                             | [Javascript](./medium/isStrictlyPalindromic.js) | Medium     |
+| 12  | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Javascript](./medium/minPartitions.js)         | Medium     |
+| 11  | [Memoize](https://leetcode.com/problems/memoize/description/)                                                                                     | [Javascript](./medium/memoize.js)               | Medium     |
+| 10  | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/description/)                                                         | [Javascript](./medium/timeLimitedCache.js)      | Medium     |
+| 9   | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)                                       | [Javascript](./medium)                          | Medium     |
+| 8   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                           | [Javascript](./medium/productExceptSelf.js)     | Medium     |
+| 7   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)                                                 | [Javascript](./medium/reverseWords.js)          | Medium     |
+| 6   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)                         | [Javascript](./medium/letterComb.js)            | Medium     |
+| 5   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                                                 | [Javascript](./medium/maxWater.js)              | Medium     |
+| 4   | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/description/)               | [Javascript](./medium/distinctPrime.js)         | Medium     |
+| 3   | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/description/)                             | [Javascript](./medium/minimal-moves.js)         | Medium     |
+| 2   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)                                   | [Javascript](./medium/removeNthNode.js)         | Medium     |
+| 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                                           | [Javascript](./medium/removeStars.js)           | Medium     |
+| 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)             | [Javascript](./medium/removeDuplicates2.js)     | Medium     |
 
-## Easy (74)
+## Easy (75)
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                     | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
+| 74  | [Chunk Array](https://leetcode.com/problems/chunk-array/description/)                                                                                           | [Javascript](./easy/chunk.js)                | Easy       |
 | 73  | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/description/)                                                           | [Javascript](./easy/fibGenerator.js)         | Easy       |
 | 72  | [Array Wrapper](https://leetcode.com/problems/array-wrapper/description/)                                                                                       | [Javascript](./easy/arrayWrapper.js)         | Easy       |
 | 71  | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)                                                               | [Javascript](./easy/calculator.js)           | Easy       |
