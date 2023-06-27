@@ -2,10 +2,13 @@
 
 My solutions for Leetcode Problems
 
-## Medium (17)
+## Medium (20)
 
 | #   | Title(Source Link)                                                                                                                                | Solution                                        | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
+| 19  | [House Robber](https://leetcode.com/problems/house-robber/)                                                                                       | [Javascript](./medium/rob.js)                   | Medium     |
+| 18  | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)                                   | [Javascript](./medium/max3NumsProduct.js)       | Medium     |
+| 17  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                               | [Javascript](./medium/maxSubarray.js)           | Medium     |
 | 16  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                               | [Javascript](./medium/maxProduct.js)            | Medium     |
 | 15  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                   | [Javascript](./medium/uniqueSubstring.js)       | Medium     |
 | 14  | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/)                                                               | [Javascript](./medium/deepestLeavesSum.js)      | Medium     |
