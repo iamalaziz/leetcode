@@ -2,10 +2,12 @@
 
 My solutions for Leetcode Problems
 
-## Medium (15)
+## Medium (17)
 
 | #   | Title(Source Link)                                                                                                                                | Solution                                        | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
+| 16  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                               | [Javascript](./medium/maxProduct.js)            | Medium     |
+| 15  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                   | [Javascript](./medium/uniqueSubstring.js)       | Medium     |
 | 14  | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/)                                                               | [Javascript](./medium/deepestLeavesSum.js)      | Medium     |
 | 13  | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/description/)                                             | [Javascript](./medium/isStrictlyPalindromic.js) | Medium     |
 | 12  | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Javascript](./medium/minPartitions.js)         | Medium     |
@@ -22,10 +24,11 @@ My solutions for Leetcode Problems
 | 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                                           | [Javascript](./medium/removeStars.js)           | Medium     |
 | 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)             | [Javascript](./medium/removeDuplicates2.js)     | Medium     |
 
-## Easy (75)
+## Easy (76)
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                     | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ---------- |
+| 75  | [Remove Digit From Number to Maximize Result]()                                                                                                                 | [Javascript](./easy/chunk.js)                | Easy       |
 | 74  | [Chunk Array](https://leetcode.com/problems/chunk-array/description/)                                                                                           | [Javascript](./easy/chunk.js)                | Easy       |
 | 73  | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/description/)                                                           | [Javascript](./easy/fibGenerator.js)         | Easy       |
 | 72  | [Array Wrapper](https://leetcode.com/problems/array-wrapper/description/)                                                                                       | [Javascript](./easy/arrayWrapper.js)         | Easy       |
