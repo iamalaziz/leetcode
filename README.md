@@ -2,10 +2,11 @@
 
 My solutions for Leetcode Problems
 
-## Medium (23)
+## Medium (24)
 
 | #   | Title(Source Link)                                                                                                                                | Solution                                        | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
+| 23  | [Group By](https://leetcode.com/problems/group-by/)                                                                                               | [Javascript](./medium/groupBy.js)               | Medium     |
 | 22  | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)               | [Javascript](./medium/findMatrix.js)            | Medium     |
 | 21  | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)                                                             | [Javascript](./medium/shortenURL.js)            | Medium     |
 | 20  | [Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/)                                             | [Javascript](./medium/callPolyfill.js)          | Medium     |
