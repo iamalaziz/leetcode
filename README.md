@@ -36,6 +36,8 @@ My solutions for Leetcode Problems
 | #   | Title(Source Link) | Solution | Difficulty |
 | --- | ------------------ | -------- | ---------- |
 
+| 76 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Javascript](./easy/powerOfTwo.js) | Easy |
+| 75 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Javascript](./easy/twoSum.js) | Easy |
 | 74 | [Chunk Array](https://leetcode.com/problems/chunk-array/description/) | [Javascript](./easy/chunk.js) | Easy |
 | 73 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/description/) | [Javascript](./easy/fibGenerator.js) | Easy |
 | 72 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/description/) | [Javascript](./easy/arrayWrapper.js) | Easy |
