@@ -36,6 +36,8 @@ My solutions for Leetcode Problems
 | #   | Title(Source Link) | Solution | Difficulty |
 | --- | ------------------ | -------- | ---------- |
 
+| 78 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i) | [Javascript](./easy/canBeEqual.js) | Easy |
+| 77 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Javascript](./easy/numberOfOnes.js) | Easy |
 | 76 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Javascript](./easy/powerOfTwo.js) | Easy |
 | 75 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Javascript](./easy/twoSum.js) | Easy |
 | 74 | [Chunk Array](https://leetcode.com/problems/chunk-array/description/) | [Javascript](./easy/chunk.js) | Easy |
