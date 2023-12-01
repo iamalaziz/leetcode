@@ -97,8 +97,8 @@ My solutions for Leetcode Problems
 | 25 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/description/) | [Javascript](./easy/minCostToMoveChips.js) | Easy |
 | 24 | [Perfect Number](https://leetcode.com/problems/perfect-number/description/) | [Javascript](./easy/perfectNumber.js) | Easy |
 | 23 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [Javascript](./easy/selfDividingNumbers.js) | Easy |
-| 22 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | [Javascript](./) | Easy |
-| 21 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [Javascript](./) | Easy |
+| 22 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | [Javascript](./easy/addDigits.js) | Easy |
+| 21 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [Javascript](./easy/isHappy.js) | Easy |
 | 20 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/) | [Javascript](./easy/countDigits.js) | Easy |
 | 19 | [Single Number](https://leetcode.com/problems/single-number/description/) | [Javascript](./easy/singleNumber.js) | Easy |
 | 18 | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) | [Javascript](./easy/validParenthesis.js) | Easy |
