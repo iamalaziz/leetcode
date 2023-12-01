@@ -35,9 +35,6 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link) | Solution | Difficulty |
 | --- | ------------------ | -------- | ---------- |
-
-| 85 | []() | [Javascript](./easy) | Easy |
-| 84 | []() | [Javascript](./easy) | Easy |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Javascript](./easy/removeDuplicatesFromSortedList.js) | Easy |
 | 82 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Javascript](./easy/removeDuplicates.js) | Easy |
 | 81 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Javascript](./easy/middleNode.js) | Easy |
