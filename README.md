@@ -36,7 +36,14 @@ My solutions for Leetcode Problems
 | #   | Title(Source Link) | Solution | Difficulty |
 | --- | ------------------ | -------- | ---------- |
 
-| 78 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i) | [Javascript](./easy/canBeEqual.js) | Easy |
+| 85 | []() | [Javascript](./easy) | Easy |
+| 84 | []() | [Javascript](./easy) | Easy |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Javascript](./easy/removeDuplicatesFromSortedList.js) | Easy |
+| 82 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Javascript](./easy/removeDuplicates.js) | Easy |
+| 81 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Javascript](./easy/middleNode.js) | Easy |
+| 80 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Javascript](./easy/mergeTwpSortedLists.js) | Easy |
+| 79 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Javascript](./easy/mergeTwoArrays.js) | Easy |
+| 78 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) | [Javascript](./easy/mergeSimilarItems.js) | Easy |
 | 77 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Javascript](./easy/numberOfOnes.js) | Easy |
 | 76 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Javascript](./easy/powerOfTwo.js) | Easy |
 | 75 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Javascript](./easy/twoSum.js) | Easy |
@@ -79,7 +86,7 @@ My solutions for Leetcode Problems
 | 39 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/) | [Javascript](./easy/smallerThanCurrent.js) | Easy |
 | 38 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) | [Javascript](./easy/gcdOfStrings.js) | Easy |
 | 37 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/) | [Javascript](./easy/findGCD.js) | Easy |
-| 36 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Javascript](./easy/removeDuplicates.js) | Easy |
+| 36 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Javascript](./easy/removeDuplicatesChars.js) | Easy |
 | 35 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/) | [Javascript](./easy/maxStringValue.js) | Easy |
 | 34 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Javascript](./easy/isAnagram.js) | Easy |
 | 33 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Javascript](./easy/differenceOfSum.js) | Easy |

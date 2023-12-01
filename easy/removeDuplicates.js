@@ -1,12 +1,11 @@
-function removeDuplicates(s) {
-  let stack = [];
-  for (l of s) {
-    if (stack.length == 0) stack.push(l);
-    else {
-      stack[stack.length - 1] == l ? stack.pop() : stack.push(l);
+var removeDuplicates = function(nums) {
+    for (let i = 1; i < nums.length; i++) {
+        if(nums[i] === nums[i-1]){
+            nums.splice(i, 1)
+            i--
+        }
     }
-  }
-  return stack.join('');
-}
+    return nums.length
+};
 
-console.log(removeDuplicates('aababaab'));
+console.log(removeDuplicates([1,1,2]))
