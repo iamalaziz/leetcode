@@ -6,22 +6,24 @@ class ListNode {
 }
 
 const node1 = new ListNode(7);
-const node2 = new ListNode(8);
-const node3 = new ListNode(10);
-const node4 = new ListNode(12);
-const node5 = new ListNode(17);
+const node2 = new ListNode(7);
+const node3 = new ListNode(7);
+const node4 = new ListNode(7);
+const node5 = new ListNode(7);
 
 node1.next = node2;
 node2.next = node3;
 node3.next = node4;
 node4.next = node5;
 
-ncanvlA
-
 var removeElements = function(head, val) {
+    while(head && head.val == val){
+        head=head.next
+    }
+
     let temp = head
-    let curr = headCA
-    let prev = null 
+    let curr = head
+    let prev = null
 
     while(curr) {
         if(curr.val == val){
@@ -29,11 +31,23 @@ var removeElements = function(head, val) {
         } else {
             prev = curr
         }
-        
         curr = curr.next
     }
 
     return temp
 };
 
-console.log(removeElements(node1, 8));
+// recursive methood
+
+const removeElements2 = (head, val) => {
+    if(!head) return null
+
+    if(head.val == val){
+        return removeElements2(head.nex, val)
+    }
+
+    head.next = removeElements2(head.next, val)
+
+    return head;
+}
+console.log(removeElements2(node1, 8));
