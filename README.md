@@ -35,6 +35,12 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link) | Solution | Difficulty |
 | --- | ------------------ | -------- | ---------- |
+| 89 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Javascript](./easy/reverseLinkedList.js) | Easy |
+| 88 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Javascript](./easy/removeLinkedListElements.js) | Easy |
+| 87 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Javascript](./easy/stackQueue.js) | Easy |
+| 86 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Javascript](./easy/queueStacks.js) | Easy |
+| 85 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Javascript](./easy/isPalindromeLinked.js) | Easy |
+| 84 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Javascript](./easy/invertBinaryTree.js) | Easy |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Javascript](./easy/removeDuplicatesFromSortedList.js) | Easy |
 | 82 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Javascript](./easy/removeDuplicates.js) | Easy |
 | 81 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Javascript](./easy/middleNode.js) | Easy |
