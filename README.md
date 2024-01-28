@@ -35,6 +35,7 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link) | Solution | Difficulty |
 | --- | ------------------ | -------- | ---------- |
+| 90 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Javascript](./easy/binaryLinkedtoDec.js) | Easy |
 | 89 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Javascript](./easy/reverseLinkedList.js) | Easy |
 | 88 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Javascript](./easy/removeLinkedListElements.js) | Easy |
 | 87 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Javascript](./easy/stackQueue.js) | Easy |
