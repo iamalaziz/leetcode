@@ -1,5 +1,5 @@
 var strStr = function (haystack, needle) {
-  return haystack.indexOf(needle);
+    return haystack.indexOf(needle);
 };
 
 console.log(strStr('asadbutsad', 'sad'));

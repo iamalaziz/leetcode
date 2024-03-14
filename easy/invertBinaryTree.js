@@ -1,7 +1,7 @@
 function TreeNode(val, left, right) {
-    this.val = (val === undefined ? 0 : val)
-    this.left = (left === undefined ? null : left)
-    this.right = (right === undefined ? null : right)
+    this.val = val === undefined ? 0 : val;
+    this.left = left === undefined ? null : left;
+    this.right = right === undefined ? null : right;
 }
 
 const tree = new TreeNode(
@@ -11,18 +11,16 @@ const tree = new TreeNode(
 );
 
 var invertTree = function (root) {
-    if (root == null) return null
+    if (root == null) return null;
 
-    let tempLeft = root.left
-    root.left = root.right
-    root.right = tempLeft
+    let tempLeft = root.left;
+    root.left = root.right;
+    root.right = tempLeft;
 
-    invertTree(root.left)
-    invertTree(root.right)
+    invertTree(root.left);
+    invertTree(root.right);
 
-    return root
+    return root;
 };
 
 console.log(invertTree(tree));
-
-

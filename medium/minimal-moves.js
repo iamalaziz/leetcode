@@ -1,13 +1,13 @@
 var minMoves = function (target, maxDoubles, moves = 0) {
-  while (maxDoubles > 0 && target / 2 > 1) {
-    target % 2 == 0
-      ? (target /= 2)
-      : ((target = Math.trunc(target / 2)), moves++);
+    while (maxDoubles > 0 && target / 2 > 1) {
+        target % 2 == 0
+            ? (target /= 2)
+            : ((target = Math.trunc(target / 2)), moves++);
 
-    moves++;
-    maxDoubles--;
-  }
-  return (moves += target - 1);
+        moves++;
+        maxDoubles--;
+    }
+    return (moves += target - 1);
 };
 
 console.log(minMoves(10, 4));

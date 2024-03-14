@@ -9,12 +9,10 @@ var singleNumber = function(nums) {
 */
 
 var singleNumber = function (nums) {
-  const frequency = {"num": 5}
-  for(let i of nums) {
-    frequency[i] = (frequency[i] || 0) + 1
-  }
-
-
+    const frequency = { num: 5 };
+    for (let i of nums) {
+        frequency[i] = (frequency[i] || 0) + 1;
+    }
 };
 
 console.log(singleNumber([2, 2, 1]));

@@ -1,13 +1,13 @@
 var convertToTitle = function (columnNumber) {
-  let res = '';
-  const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-  while (columnNumber > 0) {
-    columnNumber--;
-    let r = columnNumber % 26;
-    res = letters[r] + res;
-    columnNumber = Math.floor(columnNumber / 26);
-  }
-  return res;
+    let res = '';
+    const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    while (columnNumber > 0) {
+        columnNumber--;
+        let r = columnNumber % 26;
+        res = letters[r] + res;
+        columnNumber = Math.floor(columnNumber / 26);
+    }
+    return res;
 };
 
 console.log(convertToTitle(702));
@@ -20,4 +20,3 @@ console.log(convertToTitle(702));
 52 - az
 
 */
-

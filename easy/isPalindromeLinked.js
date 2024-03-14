@@ -1,7 +1,7 @@
 class ListNode {
     constructor(val, next) {
-        this.val = (val === undefined ? 0 : val);
-        this.next = (next === undefined ? null : next);
+        this.val = val === undefined ? 0 : val;
+        this.next = next === undefined ? null : next;
     }
 }
 
@@ -16,46 +16,42 @@ node2.next = node3;
 node3.next = node4;
 node4.next = node5;
 
-
-
-const reverse = head => {
-    let curr = head
-    let prev = null
+const reverse = (head) => {
+    let curr = head;
+    let prev = null;
 
     while (curr) {
-        let next = curr.next
-        curr.next = prev
-        prev = curr
-        curr = next
+        let next = curr.next;
+        curr.next = prev;
+        prev = curr;
+        curr = next;
     }
 
-    return prev
-}
-
+    return prev;
+};
 
 var isPalindrome = function (head) {
-    let fast = head
+    let fast = head;
     let slow = head;
     let startPointer = head;
-    let len = 0
+    let len = 0;
 
-    while(fast && fast.next) {
-        fast = fast.next.next
-        slow = slow.next
+    while (fast && fast.next) {
+        fast = fast.next.next;
+        slow = slow.next;
         len++;
     }
 
-    let mid = reverse(slow)
+    let mid = reverse(slow);
 
-    while(len) {
+    while (len) {
         len--;
-        if(mid.val !== startPointer.val) return false
-        mid = mid.next
-        startPointer = startPointer.next
+        if (mid.val !== startPointer.val) return false;
+        mid = mid.next;
+        startPointer = startPointer.next;
     }
-    
-    return true
 
+    return true;
 };
 
 console.log(isPalindrome(node1));

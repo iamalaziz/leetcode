@@ -1,1 +1,1 @@
-'awk "NR == 10" file.txt'
+'awk "NR == 10" file.txt';

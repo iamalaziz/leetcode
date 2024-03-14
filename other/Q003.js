@@ -1,6 +1,5 @@
 //  What will print out the code below?
 
-
 /*
 // ################################################
 const promise1 = new Promise((resolve, reject) => {
@@ -47,7 +46,6 @@ The code returns >>
 Because the promise is not resolved so code in then is not executed.
 */
 
-
 /*
 // ################################################
 const promise1 = new Promise((resolve, reject) => {
@@ -71,7 +69,6 @@ promise2: Promise {<pendiing>}
 resolve1
 */
 
-
 /*
 // ################################################
 const fn = () => (new Promise((resolve, reject) => {
@@ -93,7 +90,6 @@ Answer
 2
 'success'
 */
-
 
 /*
 // ################################################

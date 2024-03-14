@@ -1,7 +1,7 @@
 class ListNode {
     constructor(val, next) {
-        this.val = (val === undefined ? 0 : val);
-        this.next = (next === undefined ? null : next);
+        this.val = val === undefined ? 0 : val;
+        this.next = next === undefined ? null : next;
     }
 }
 
@@ -16,38 +16,38 @@ node2.next = node3;
 node3.next = node4;
 node4.next = node5;
 
-var removeElements = function(head, val) {
-    while(head && head.val == val){
-        head=head.next
+var removeElements = function (head, val) {
+    while (head && head.val == val) {
+        head = head.next;
     }
 
-    let temp = head
-    let curr = head
-    let prev = null
+    let temp = head;
+    let curr = head;
+    let prev = null;
 
-    while(curr) {
-        if(curr.val == val){
-            prev.next = curr.next
+    while (curr) {
+        if (curr.val == val) {
+            prev.next = curr.next;
         } else {
-            prev = curr
+            prev = curr;
         }
-        curr = curr.next
+        curr = curr.next;
     }
 
-    return temp
+    return temp;
 };
 
 // recursive methood
 
 const removeElements2 = (head, val) => {
-    if(!head) return null
+    if (!head) return null;
 
-    if(head.val == val){
-        return removeElements2(head.nex, val)
+    if (head.val == val) {
+        return removeElements2(head.nex, val);
     }
 
-    head.next = removeElements2(head.next, val)
+    head.next = removeElements2(head.next, val);
 
     return head;
-}
+};
 console.log(removeElements2(node1, 8));

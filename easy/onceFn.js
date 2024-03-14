@@ -1,12 +1,12 @@
 var once = function (fn) {
-  let i = 0;
-  return function (...args) {
-    if (i == 0) {
-      i++;
-      return fn(...args);
-    }
-    return undefined;
-  };
+    let i = 0;
+    return function (...args) {
+        if (i == 0) {
+            i++;
+            return fn(...args);
+        }
+        return undefined;
+    };
 };
 
 let fn = (a, b, c) => a + b + c;

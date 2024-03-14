@@ -1,5 +1,5 @@
-var argumentsLength = function(...args) {
-  return args.length
+var argumentsLength = function (...args) {
+    return args.length;
 };
 
-console.log(argumentsLength(1,2,3,4))
+console.log(argumentsLength(1, 2, 3, 4));

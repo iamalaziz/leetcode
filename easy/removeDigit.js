@@ -1,4 +1,4 @@
-NOT FINISHED
+// NOT FINISHED
 
 var removeDigit = function (number, digit) {
   let max = number.replace(digit, '');

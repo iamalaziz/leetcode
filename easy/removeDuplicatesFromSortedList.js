@@ -1,7 +1,7 @@
 class ListNode {
     constructor(val, next) {
-        this.val = (val === undefined ? 0 : val);
-        this.next = (next === undefined ? null : next);
+        this.val = val === undefined ? 0 : val;
+        this.next = next === undefined ? null : next;
     }
 }
 
@@ -19,16 +19,15 @@ node4.next = node5;
 node5.next = node6;
 
 var deleteDuplicates = function (head) {
-    let currNode = head
-    while(head && head.next){
-        if(head.val == head.next.val){
-            head.next = head.next.next
-        }else {
-            head = head.next
+    let currNode = head;
+    while (head && head.next) {
+        if (head.val == head.next.val) {
+            head.next = head.next.next;
+        } else {
+            head = head.next;
         }
     }
-    return currNode
+    return currNode;
 };
 
-
-console.log(deleteDuplicates(node1))
+console.log(deleteDuplicates(node1));
