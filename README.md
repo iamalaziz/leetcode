@@ -35,8 +35,10 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link) | Solution | Difficulty |
 | --- | ------------------ | -------- | ---------- |
-| 94 | []() | [Javascript](./easy) | Easy |
-| 93 | []() | [Javascript](./easy) | Easy |
+| 96 | []() | [Javascript](./easy) | Easy |
+| 95 | []() | [Javascript](./easy) | Easy |
+| 94 | [Power of Four](https://leetcode.com/problems/power-of-four/description/) | [Javascript](./easy/isPowerOfFour.js) | Easy |
+| 93 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Javascript](./easy/isPowerOfThree.js) | Easy |
 | 92 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | [Javascript](./easy/constructRectangle.js) | Easy |
 | 91 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/) | [Javascript](./easy/isRectangleOverlap.js) | Easy |
 | 90 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Javascript](./easy/binaryLinkedtoDec.js) | Easy |
