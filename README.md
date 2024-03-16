@@ -35,6 +35,10 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link) | Solution | Difficulty |
 | --- | ------------------ | -------- | ---------- |
+| 94 | []() | [Javascript](./easy) | Easy |
+| 93 | []() | [Javascript](./easy) | Easy |
+| 92 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | [Javascript](./easy/constructRectangle.js) | Easy |
+| 91 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/) | [Javascript](./easy/isRectangleOverlap.js) | Easy |
 | 90 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Javascript](./easy/binaryLinkedtoDec.js) | Easy |
 | 89 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Javascript](./easy/reverseLinkedList.js) | Easy |
 | 88 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Javascript](./easy/removeLinkedListElements.js) | Easy |
