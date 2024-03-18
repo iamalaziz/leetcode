@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "My solutions for Leetcode Problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamalaziz/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamalaziz/leetcode/issues"
+  },
+  "homepage": "https://github.com/iamalaziz/leetcode#readme",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}
