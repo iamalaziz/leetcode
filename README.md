@@ -35,7 +35,18 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                               | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
-| 98  | []()                                                                                                                                                            | [Typescript](./easy)                                   | Easy       |
+| 109  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 108  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 107  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 106  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 105  | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)| [MySQL](./database/empTime.sql)| Easy       |
+| 104  | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)| [MySQL](./database/numOfUniqueSubjects.sql)| Easy       |
+| 103  | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [MySQL](./database/duplicateEmails.sql)| Easy       |
+| 102  | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)| [MySQL](./database/recyclable.sql)| Easy       |
+| 101  | [Top Travellers](https://leetcode.com/problems/top-travellers/)| [MySQL](./database/topTravellers.sql)| Easy       |
+| 100  | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/)| [MySQL](./database/reformatDept.sql)| Easy       |
+| 99  | [Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)| [MySQL](./database/employeeBonus.sql)| Easy       |
+| 98  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [MySQL](./database/combineTwoTables.sql)| Easy       |
 | 97  | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/)                                                     | [Typescript](./easy/findRestaurant.ts)                 | Easy       |
 | 96  | [Remove Element](https://leetcode.com/problems/remove-element/description/)                                                                                     | [Typescript](./easy/removeElement.ts)                  | Easy       |
 | 95  | [Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                                     | [Typescript](./easy/missingNumber.ts)                  | Easy       |
