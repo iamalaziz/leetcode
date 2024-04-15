@@ -35,10 +35,15 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                               | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
-| 109  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
-| 108  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
-| 107  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
-| 106  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 114  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 113  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 112  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 111  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 110  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 109  | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets)| [MySQL](./database/invalidTweets.sql)| Easy       |
+| 108  | [Article Views I](https://leetcode.com/problems/article-views-i)| [MySQL](./database/articleViews.sql)| Easy       |
+| 107  | [Big Countries](https://leetcode.com/problems/big-countries)| [MySQL](./database/bigCountries.sql)| Easy       |
+| 106  | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee)| [MySQL](./database/customerReferee.sql)| Easy       |
 | 105  | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)| [MySQL](./database/empTime.sql)| Easy       |
 | 104  | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)| [MySQL](./database/numOfUniqueSubjects.sql)| Easy       |
 | 103  | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [MySQL](./database/duplicateEmails.sql)| Easy       |
