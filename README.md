@@ -35,8 +35,12 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                               | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
-| 114  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
-| 113  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 119  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 118  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 117  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 116  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 114  | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine)| [MySQL](./database/processingTime.sql)| Easy       |
+| 113  | [Rising Temperature](https://leetcode.com/problems/rising-temperature)| [MySQL](./database/risingTemp.sql)| Easy       |
 | 112  | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions)| [MySQL](./database/noTransactions.sql)| Easy       |
 | 111  | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i)| [MySQL](./database/productSales.sql)| Easy       |
 | 110  | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier)| [MySQL](./database/uniqueIdentifier.sql)| Easy       |
