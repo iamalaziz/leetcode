@@ -6,6 +6,10 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                | Solution                                        | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
+| 27  | []()| [MySQL](./medium/groupBy.js)               | Medium     |
+| 26  | []()| [MySQL](./medium/groupBy.js)               | Medium     |
+| 25  | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate)| [MySQL](./database/confirmatioRate.sql)               | Medium     |
+| 24  | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)| [MySQL](./database/managers.sql)          | Medium     |
 | 23  | [Group By](https://leetcode.com/problems/group-by/)                                                                                               | [Javascript](./medium/groupBy.js)               | Medium     |
 | 22  | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)               | [Javascript](./medium/findMatrix.js)            | Medium     |
 | 21  | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)                                                             | [Javascript](./medium/shortenURL.js)            | Medium     |
@@ -38,7 +42,7 @@ My solutions for Leetcode Problems
 | 119  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
 | 118  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
 | 117  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
-| 116  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 116  | [Students and Examinations](https://leetcode.com/problems/students-and-examinations)| [MySQL](./database/studentExams.sql)| Easy       |
 | 114  | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine)| [MySQL](./database/processingTime.sql)| Easy       |
 | 113  | [Rising Temperature](https://leetcode.com/problems/rising-temperature)| [MySQL](./database/risingTemp.sql)| Easy       |
 | 112  | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions)| [MySQL](./database/noTransactions.sql)| Easy       |
