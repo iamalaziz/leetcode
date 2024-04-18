@@ -6,7 +6,8 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                | Solution                                        | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
-| 27  | []()| [MySQL](./medium/groupBy.js)               | Medium     |
+| 26  | []()| [MySQL](./medium/groupBy.js)               | Medium     |
+| 26  | []()| [MySQL](./medium/groupBy.js)               | Medium     |
 | 26  | []()| [MySQL](./medium/groupBy.js)               | Medium     |
 | 25  | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate)| [MySQL](./database/confirmatioRate.sql)               | Medium     |
 | 24  | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)| [MySQL](./database/managers.sql)          | Medium     |
@@ -39,9 +40,14 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                               | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
-| 119  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
-| 118  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
-| 117  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 124  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 123  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 122  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 121  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 120  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 119  | [Project Employees I](https://leetcode.com/problems/project-employees-i)| [MySQL](./database/avrExp.sql)| Easy       |
+| 118  | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company)| [MySQL](./database/managerLeft.sql)| Easy       |
+| 117  | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies)| [MySQL](./database/notBoring.sql)               | Easy     |
 | 116  | [Students and Examinations](https://leetcode.com/problems/students-and-examinations)| [MySQL](./database/studentExams.sql)| Easy       |
 | 114  | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine)| [MySQL](./database/processingTime.sql)| Easy       |
 | 113  | [Rising Temperature](https://leetcode.com/problems/rising-temperature)| [MySQL](./database/risingTemp.sql)| Easy       |
