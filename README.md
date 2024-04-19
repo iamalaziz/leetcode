@@ -44,7 +44,7 @@ My solutions for Leetcode Problems
 | 123  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
 | 122  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
 | 121  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
-| 120  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 120  | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)| [MySQL](./database/contestPercentage.sql)| Easy       |
 | 119  | [Project Employees I](https://leetcode.com/problems/project-employees-i)| [MySQL](./database/avrExp.sql)| Easy       |
 | 118  | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company)| [MySQL](./database/managerLeft.sql)| Easy       |
 | 117  | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies)| [MySQL](./database/notBoring.sql)               | Easy     |
