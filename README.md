@@ -2,7 +2,7 @@
 
 My solutions for Leetcode Problems
 
-## Medium (24)
+## Medium
 
 | #   | Title(Source Link)                                                                                                                                | Solution                                        | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
@@ -36,14 +36,14 @@ My solutions for Leetcode Problems
 | 1   | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)                                           | [Javascript](./medium/removeStars.js)           | Medium     |
 | 0   | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)             | [Javascript](./medium/removeDuplicates2.js)     | Medium     |
 
-## Easy (76)
+## Easy 
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                               | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
 | 124  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
 | 123  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
-| 122  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
-| 121  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 122  | [ Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage)| [MySQL](./database/queriesQuality.sql)| Easy       |
+| 121  | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)| [MySQL](./database/userActivity.sql)| Easy       |
 | 120  | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)| [MySQL](./database/contestPercentage.sql)| Easy       |
 | 119  | [Project Employees I](https://leetcode.com/problems/project-employees-i)| [MySQL](./database/avrExp.sql)| Easy       |
 | 118  | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company)| [MySQL](./database/managerLeft.sql)| Easy       |
