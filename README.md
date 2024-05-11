@@ -8,7 +8,7 @@ My solutions for Leetcode Problems
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
 | 26  | []()| [MySQL](./medium/groupBy.js)               | Medium     |
 | 26  | []()| [MySQL](./medium/groupBy.js)               | Medium     |
-| 26  | []()| [MySQL](./medium/groupBy.js)               | Medium     |
+| 26  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)| [TypeScript](./medium/linked_list/reverseBetween.js)  | Medium     |
 | 25  | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate)| [MySQL](./database/confirmatioRate.sql)               | Medium     |
 | 24  | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)| [MySQL](./database/managers.sql)          | Medium     |
 | 23  | [Group By](https://leetcode.com/problems/group-by/)                                                                                               | [Javascript](./medium/groupBy.js)               | Medium     |
