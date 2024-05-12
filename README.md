@@ -41,7 +41,8 @@ My solutions for Leetcode Problems
 | #   | Title(Source Link)                                                                                                                                              | Solution                                               | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- |
 | 124  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
-| 123  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 124  | []()| [MySQL](./database/combineTwoTables.sql)| Easy       |
+| 123  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [JavaScript](./easy/linkedList/hasCycle.js)| Easy       |
 | 122  | [ Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage)| [MySQL](./database/queriesQuality.sql)| Easy       |
 | 121  | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)| [MySQL](./database/userActivity.sql)| Easy       |
 | 120  | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)| [MySQL](./database/contestPercentage.sql)| Easy       |
