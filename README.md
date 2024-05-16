@@ -7,7 +7,7 @@ My solutions for Leetcode Problems
 | #   | Title(Source Link)                                                                                                                                | Solution                                        | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
 | 26  | []()| [MySQL](./medium/groupBy.js)               | Medium     |
-| 26  | []()| [MySQL](./medium/groupBy.js)               | Medium     |
+| 26  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)| [JavaScript](./medium/linked_list/oddEvenLinkedList.js)               | Medium     |
 | 26  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)| [TypeScript](./medium/linked_list/reverseBetween.js)  | Medium     |
 | 25  | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate)| [MySQL](./database/confirmatioRate.sql)               | Medium     |
 | 24  | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)| [MySQL](./database/managers.sql)          | Medium     |
