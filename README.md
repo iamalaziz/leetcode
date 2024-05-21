@@ -6,10 +6,13 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                | Solution                                        | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
-| 26  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
-| 26  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
-| 26  | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list)| [JavaScript](./medium/linked_list/insertGCD.js)  | Medium     |
-| 26  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)| [JavaScript](./medium/linked_list/oddEvenLinkedList.js)               | Medium     |
+| 30  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
+| 30  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
+| 30  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
+| 30  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
+| 29  | [Remove Nodes From Linked List](leetcode.com/problems/remove-nodes-from-linked-list/)| [JavaScript](./medium/linked_list/removeNodes.js)               | Medium     |
+| 28  | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list)| [JavaScript](./medium/linked_list/insertGCD.js)  | Medium     |
+| 27  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)| [JavaScript](./medium/linked_list/oddEvenLinkedList.js)               | Medium     |
 | 26  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)| [TypeScript](./medium/linked_list/reverseBetween.js)  | Medium     |
 | 25  | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate)| [MySQL](./database/confirmatioRate.sql)               | Medium     |
 | 24  | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)| [MySQL](./database/managers.sql)          | Medium     |
