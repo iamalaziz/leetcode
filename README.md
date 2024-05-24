@@ -9,7 +9,7 @@ My solutions for Leetcode Problems
 | 30  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
 | 30  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
 | 30  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
-| 30  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
+| 30  | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)| [JavaScript](./medium/linked_list/mergeInBetween.js)               | Medium     |
 | 29  | [Remove Nodes From Linked List](leetcode.com/problems/remove-nodes-from-linked-list/)| [JavaScript](./medium/linked_list/removeNodes.js)               | Medium     |
 | 28  | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list)| [JavaScript](./medium/linked_list/insertGCD.js)  | Medium     |
 | 27  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)| [JavaScript](./medium/linked_list/oddEvenLinkedList.js)               | Medium     |
