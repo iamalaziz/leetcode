@@ -6,7 +6,9 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                | Solution                                        | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------- |
-| 33  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
+| 35  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
+| 34  | []()| [JavaScript](./medium/groupBy.js)               | Medium     |
+| 33  | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum)| [JavaScript](./medium/checkSubarraySum.js)               | Medium     |
 | 32  | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)| [JavaScript](./medium/isNStraightHand.js)               | Medium     |
 | 31  | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id)| [JavaScript](./medium/30-days-of-js/join.js)               | Medium     |
 | 30  | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)| [JavaScript](./medium/linked_list/mergeInBetween.js)               | Medium     |
