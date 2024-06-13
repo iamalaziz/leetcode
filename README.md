@@ -6,12 +6,16 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                | Solution                                                | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- |
-| 35  | []()                                                                                                                                              | [JavaScript](./medium/groupBy.js)                       | Medium     |
-| 35  | []()                                                                                                                                              | [JavaScript](./medium/groupBy.js)                       | Medium     |
-| 34  | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array)                                                                                                                                              | [JavaScript](./30-days-of-js/flat.js)                       | Medium     |
+| 40  | []()| [JavaScript](./) | Medium     |
+| 39  | []()| [JavaScript](./) | Medium     |
+| 38  | []()| [JavaScript](./) | Medium     |
+| 37  | []()| [JavaScript](./) | Medium     |
+| 36  | []()| [JavaScript](./) | Medium     |
+| 35  | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)                                | [JavaScript](./30-days-of-js/minMovesToSeat.js)         | Medium     |
+| 34  | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array)                                                          | [JavaScript](./30-days-of-js/flat.js)                   | Medium     |
 | 33  | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum)                                                                  | [JavaScript](./medium/checkSubarraySum.js)              | Medium     |
 | 32  | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)                                                                 | [JavaScript](./medium/isNStraightHand.js)               | Medium     |
-| 31  | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id)                                                                      | [JavaScript](./30-days-of-js/join.js)            | Medium     |
+| 31  | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id)                                                                      | [JavaScript](./30-days-of-js/join.js)                   | Medium     |
 | 30  | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)                                                     | [JavaScript](./medium/linked_list/mergeInBetween.js)    | Medium     |
 | 29  | [Remove Nodes From Linked List](leetcode.com/problems/remove-nodes-from-linked-list/)                                                             | [JavaScript](./medium/linked_list/removeNodes.js)       | Medium     |
 | 28  | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list)                    | [JavaScript](./medium/linked_list/insertGCD.js)         | Medium     |
