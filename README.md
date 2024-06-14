@@ -10,7 +10,7 @@ My solutions for Leetcode Problems
 | 39  | []()| [JavaScript](./) | Medium     |
 | 38  | []()| [JavaScript](./) | Medium     |
 | 37  | []()| [JavaScript](./) | Medium     |
-| 36  | []()| [JavaScript](./) | Medium     |
+| 36  | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)| [JavaScript](./30-days-of-js/minIncrementForUnique.js) | Medium     |
 | 35  | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone)                                | [JavaScript](./30-days-of-js/minMovesToSeat.js)         | Medium     |
 | 34  | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array)                                                          | [JavaScript](./30-days-of-js/flat.js)                   | Medium     |
 | 33  | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum)                                                                  | [JavaScript](./medium/checkSubarraySum.js)              | Medium     |
