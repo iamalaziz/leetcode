@@ -19,7 +19,7 @@ My solutions for Leetcode Problems
 | #   | Title(Source Link)                                                                                                                                | Solution                                                  | Difficulty |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- |-----------------------------------------------------------| ---------- |
 | 40  | []()| [JavaScript](./)                                          | Medium     |
-| 39  | []()| [JavaScript](./)                                          | Medium     |
+| 39  | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)| [JavaScript](./june-daily-questions/longestSubarray.js)   | Medium     |
 | 38  | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)| [JavaScript](./june-daily-questions/numberOfSubarrays.js) | Medium     |
 | 37  | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work)| [JavaScript](./30-days-of-js/maxProfitAssignment.js)      | Medium     |
 | 36  | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)| [JavaScript](./30-days-of-js/minIncrementForUnique.js)    | Medium     |
