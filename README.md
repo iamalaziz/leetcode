@@ -21,7 +21,7 @@ My solutions for Leetcode Problems
 | 45 | []()| [JavaScript](./)                                          | Medium     |
 | 44 | []()| [JavaScript](./)                                          | Medium     |
 | 43 | []()| [JavaScript](./)                                          | Medium     |
-| 42 | []()| [JavaScript](./)                                          | Medium     |
+| 42 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph)| [JavaScript](./june-daily-questions/getAncestors.js)                                          | Medium     |
 | 41 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads)| [JavaScript](./june-daily-questions/maximumImportance.js)                                          | Medium     |
 | 40 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)| [JavaScript](./june-daily-questions/bstToGst.js)          | Medium     |
 | 39 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)| [JavaScript](./june-daily-questions/longestSubarray.js)   | Medium     |
