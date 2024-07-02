@@ -69,8 +69,10 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                                  | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
-| 124 | []()                                                                                                                                                            | [MySQL](./database/combineTwoTables.sql)                  | Easy       |
-| 124 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)                                                                                                                                                            | [MySQL](./easy/findSecondMinimumValue.js)                  | Easy       |
+| 127 | []()| [JavaScript](.)| Easy       |
+| 126 | []()| [JavaScript](.)| Easy       |
+| 125 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)| [JavaScript](./july-daily-questions/easy/intersect.js)| Easy       |
+| 124 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)                                                                                                                                                            | [Javascript](./easy/findSecondMinimumValue.js)                  | Easy       |
 | 124 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array)                                                                                        | [Javascript](./june-daily-questions/relativeSortArray.js) | Easy       |
 | 123 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                                                           | [JavaScript](./easy/linkedList/hasCycle.js)               | Easy       |
 | 122 | [ Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage)                                                                 | [MySQL](./database/queriesQuality.sql)                    | Easy       |
