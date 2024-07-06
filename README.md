@@ -71,8 +71,12 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                                  | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
+| 131 | []()| [JavaScript](.)| Easy       |
+| 130 | []()| [JavaScript](.)| Easy       |
+| 129 | []()| [JavaScript](.)| Easy       |
+| 128 | []()| [JavaScript](.)| Easy       |
 | 127 | []()| [JavaScript](.)| Easy       |
-| 126 | []()| [JavaScript](.)| Easy       |
+| 126 | [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)| [JavaScript](./july-daily-questions/)| Easy       |
 | 125 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)| [JavaScript](./july-daily-questions/easy/intersect.js)| Easy       |
 | 124 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)                                                                                                                                                            | [Javascript](./easy/findSecondMinimumValue.js)                  | Easy       |
 | 124 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array)                                                                                        | [Javascript](./june-daily-questions/relativeSortArray.js) | Easy       |
