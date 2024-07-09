@@ -18,9 +18,9 @@ My solutions for Leetcode Problems
 
 | #  | Title(Source Link)                                                                                                                              | Solution                                                  | Difficulty |
 |----| ----------------------------------------------------------------------------------------------------------------------------------------------- |-----------------------------------------------------------| ---------- |
-| 45 | []()| [JavaScript](./)                                          | Medium     |
-| 45 | []()| [JavaScript](./)                                          | Medium     |
-| 45 | []()| [JavaScript](./)                                          | Medium     |
+| 47 | []()| [JavaScript](./)                                          | Medium     |
+| 46 | []()| [JavaScript](./)                                          | Medium     |
+| 45 | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time)| [JavaScript](./july-daily-questions/medium/averageWaitingTime.js)                                          | Medium     |
 | 44 | [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)| [JavaScript](./july-daily-questions/medium/findTheWinner.js)                                          | Medium     |
 | 43 | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)| [TypeScript](./july-daily-questions/medium/criticalPoints.ts)                                          | Medium     |
 | 42 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph)| [JavaScript](./june-daily-questions/getAncestors.js)                                          | Medium     |
