@@ -74,7 +74,7 @@ My solutions for Leetcode Problems
 | 131 | []()| [JavaScript](.)| Easy       |
 | 130 | []()| [JavaScript](.)| Easy       |
 | 129 | []()| [JavaScript](.)| Easy       |
-| 128 | []()| [JavaScript](.)| Easy       |
+| 128 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)| [JavaScript](./july-daily-questions/easy/minOperations.js)| Easy       |
 | 127 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles)| [JavaScript](./july-daily-questions/easy/numWaterBottles.js)| Easy       |
 | 126 | [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)| [JavaScript](./july-daily-questions/)| Easy       |
 | 125 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)| [JavaScript](./july-daily-questions/easy/intersect.js)| Easy       |
