@@ -19,7 +19,7 @@ My solutions for Leetcode Problems
 | #  | Title(Source Link)                                                                                                                              | Solution                                                  | Difficulty |
 |----| ----------------------------------------------------------------------------------------------------------------------------------------------- |-----------------------------------------------------------| ---------- |
 | 47 | []()| [JavaScript](./)                                          | Medium     |
-| 46 | []()| [JavaScript](./)                                          | Medium     |
+| 46 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)| [JavaScript](./july-daily-questions/medium/reverseParentheses.js)                                          | Medium     |
 | 45 | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time)| [JavaScript](./july-daily-questions/medium/averageWaitingTime.js)                                          | Medium     |
 | 44 | [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)| [JavaScript](./july-daily-questions/medium/findTheWinner.js)                                          | Medium     |
 | 43 | [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)| [TypeScript](./july-daily-questions/medium/criticalPoints.ts)                                          | Medium     |
