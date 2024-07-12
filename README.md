@@ -18,7 +18,11 @@ My solutions for Leetcode Problems
 
 | #  | Title(Source Link)                                                                                                                              | Solution                                                  | Difficulty |
 |----| ----------------------------------------------------------------------------------------------------------------------------------------------- |-----------------------------------------------------------| ---------- |
-| 47 | []()| [JavaScript](./)                                          | Medium     |
+| 51 | []()| [JavaScript](./)                                          | Medium     |
+| 50 | []()| [JavaScript](./)                                          | Medium     |
+| 49 | []()| [JavaScript](./)                                          | Medium     |
+| 48 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/)| [JavaScript](./medium/singleNumberIII.js)                                          | Medium     |
+| 47 | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/)| [JavaScript](./july-daily-questions/medium/maximumGain.js)                                          | Medium     |
 | 46 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)| [JavaScript](./july-daily-questions/medium/reverseParentheses.js)                                          | Medium     |
 | 45 | [1701. Average Waiting Time](https://leetcode.com/problems/average-waiting-time)| [JavaScript](./july-daily-questions/medium/averageWaitingTime.js)                                          | Medium     |
 | 44 | [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game)| [JavaScript](./july-daily-questions/medium/findTheWinner.js)                                          | Medium     |
