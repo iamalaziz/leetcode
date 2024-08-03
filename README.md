@@ -20,7 +20,7 @@ My solutions for Leetcode Problems
 |----| ----------------------------------------------------------------------------------------------------------------------------------------------- |-----------------------------------------------------------| ---------- |
 | 51 | []()| [JavaScript](./)                                          | Medium     |
 | 50 | []()| [JavaScript](./)                                          | Medium     |
-| 49 | []()| [JavaScript](./)                                          | Medium     |
+| 49 | [2134. Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)| [JavaScript](./august-daily-questions/medium/minSwaps.js)                                          | Medium     |
 | 48 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/)| [JavaScript](./medium/singleNumberIII.js)                                          | Medium     |
 | 47 | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/)| [JavaScript](./july-daily-questions/medium/maximumGain.js)                                          | Medium     |
 | 46 | [1190. Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)| [JavaScript](./july-daily-questions/medium/reverseParentheses.js)                                          | Medium     |
@@ -77,7 +77,7 @@ My solutions for Leetcode Problems
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
 | 131 | []()| [JavaScript](.)| Easy       |
 | 130 | []()| [JavaScript](.)| Easy       |
-| 129 | []()| [JavaScript](.)| Easy       |
+| 129 | [1460. Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)| [JavaScript](./august-daily-questions/easy/canBeEqual.js)| Easy       |
 | 128 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)| [JavaScript](./july-daily-questions/easy/minOperations.js)| Easy       |
 | 127 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles)| [JavaScript](./july-daily-questions/easy/numWaterBottles.js)| Easy       |
 | 126 | [2582. Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)| [JavaScript](./july-daily-questions/)| Easy       |

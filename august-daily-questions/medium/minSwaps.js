@@ -24,9 +24,9 @@ var minSwaps = function (nums) {
                         zeros++
                 }
 
+                if(zeros < swaps) swaps = zeros
         }
         
-        if(zeros < swaps) swaps = zeros
 
         return swaps;
 };
