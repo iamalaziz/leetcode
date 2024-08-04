@@ -19,7 +19,7 @@ My solutions for Leetcode Problems
 | #  | Title(Source Link)                                                                                                                              | Solution                                                  | Difficulty |
 |----| ----------------------------------------------------------------------------------------------------------------------------------------------- |-----------------------------------------------------------| ---------- |
 | 51 | []()| [JavaScript](./)                                          | Medium     |
-| 50 | []()| [JavaScript](./)                                          | Medium     |
+| 50 | [1508. Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums)| [JavaScript](./august-daily-questions/medium/rangeSum.js)                                          | Medium     |
 | 49 | [2134. Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)| [JavaScript](./august-daily-questions/medium/minSwaps.js)                                          | Medium     |
 | 48 | [260. Single Number III](https://leetcode.com/problems/single-number-iii/)| [JavaScript](./medium/singleNumberIII.js)                                          | Medium     |
 | 47 | [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/)| [JavaScript](./july-daily-questions/medium/maximumGain.js)                                          | Medium     |
