@@ -18,7 +18,9 @@ My solutions for Leetcode Problems
 
 | #  | Title(Source Link)                                                                                                                              | Solution                                                  | Difficulty |
 |----| ----------------------------------------------------------------------------------------------------------------------------------------------- |-----------------------------------------------------------| ---------- |
-| 53 | []()| [JavaScript](./)                                          | Medium     |
+| 56 | []()| [JavaScript](./)                                          | Medium     |
+| 55 | []()| [JavaScript](./)                                          | Medium     |
+| 54 | [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [JavaScript](./august-daily-questions/medium/nthUglyNumber.js)                                          | Medium     |
 | 53 | [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/)| [JavaScript](./august-daily-questions/medium/maxPoints.js)                                          | Medium     |
 | 52 | [624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)| [JavaScript](./august-daily-questions/medium/maxDistance.js)                                          | Medium     |
 | 51 | [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii)| [JavaScript](./august-daily-questions/medium/spiralMatrix3.js)                                          | Medium     |
