@@ -80,8 +80,9 @@ My solutions for Leetcode Problems
 
 | #   | Title(Source Link)                                                                                                                                              | Solution                                                  | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
+| 132 | []()| [JavaScript](.)| Easy       |
 | 131 | []()| [JavaScript](.)| Easy       |
-| 130 | []()| [JavaScript](.)| Easy       |
+| 130 | [476. Number Complement](https://leetcode.com/problems/number-complement/description)| [JavaScript](./august-daily-questions/easy/findComplement.js)| Easy       |
 | 129 | [1460. Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)| [JavaScript](./august-daily-questions/easy/canBeEqual.js)| Easy       |
 | 128 | [1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder)| [JavaScript](./july-daily-questions/easy/minOperations.js)| Easy       |
 | 127 | [1518. Water Bottles](https://leetcode.com/problems/water-bottles)| [JavaScript](./july-daily-questions/easy/numWaterBottles.js)| Easy       |
